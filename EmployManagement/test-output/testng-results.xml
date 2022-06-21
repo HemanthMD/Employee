@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T18:43:59 IST" name="Default suite" finished-at="2022-06-20T18:44:00 IST" duration-ms="1199">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T18:43:59 IST" name="Default test" finished-at="2022-06-20T18:44:00 IST" duration-ms="1199">
+      <class name="VerifyMethods.VerifyAll">
+        <test-method signature="TestPostMeth()[pri:1, instance:VerifyMethods.VerifyAll@7c83dc97]" started-at="2022-06-20T18:43:59 IST" name="TestPostMeth" finished-at="2022-06-20T18:44:00 IST" duration-ms="1097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPostMeth -->
+        <test-method signature="TestPutMeth()[pri:2, instance:VerifyMethods.VerifyAll@7c83dc97]" started-at="2022-06-20T18:44:00 IST" name="TestPutMeth" finished-at="2022-06-20T18:44:00 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPutMeth -->
+        <test-method signature="TestGetMeth()[pri:3, instance:VerifyMethods.VerifyAll@7c83dc97]" started-at="2022-06-20T18:44:00 IST" name="TestGetMeth" finished-at="2022-06-20T18:44:00 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetMeth -->
+        <test-method signature="TestSingleid()[pri:4, instance:VerifyMethods.VerifyAll@7c83dc97]" started-at="2022-06-20T18:44:00 IST" name="TestSingleid" finished-at="2022-06-20T18:44:00 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSingleid -->
+      </class> <!-- VerifyMethods.VerifyAll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
